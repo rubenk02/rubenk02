@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ruben 👋
 
-<!--
-**rubenk02/rubenk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FinTech MSc candidate at EIT Digital with a background in
+business informatics and software engineering.
 
-Here are some ideas to get you started:
+I build full-stack applications and distributed systems,
+with a particular interest in financial technology, AI and blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+- Studying Financial Technology at UPM and Université Côte d'Azur
+- Building an AI/FinTech portfolio project
+- Exploring intelligent financial products and software architecture
+
+## Selected Projects
+
+### Ethereum Multi-Approval Platform
+Private Ethereum payment application with role-based multi-party approval.
+
+### [Your upcoming AI/FinTech project]
+One-sentence description focused on the user problem and result.
+
+### React Native Application
+One-sentence description explaining what the application does.
+
+## Technologies
+
+TypeScript · React · Node.js · Java · Spring Boot · Python ·
+Solidity · Docker · SQL · Ethereum
+
+## Contact
+
+LinkedIn · Email
