@@ -13,6 +13,18 @@ I enjoy building applications at the intersection of **financial technology, sof
 
 ## 🚀 Selected Projects
 
+### ⛓️ Ethereum Multi-Approval Payment Platform
+
+A blockchain-based application for payments that require approval from multiple authorized participants.
+
+The project includes Solidity smart contracts for payment approval and role management, a React frontend with MetaMask integration, and a private GoQuorum blockchain using QBFT consensus.
+
+**Technical focus:** Solidity, Ethereum, GoQuorum, React, Ethers.js, MetaMask, Docker, and distributed systems.
+
+[View repository](LINK_TO_BLOCKCHAIN_REPOSITORY)
+
+---
+
 ### 🎾 Tennis Player Performance Analysis
 
 A Python-based data analysis project examining the factors that influence match outcomes among top professional tennis players.
@@ -27,18 +39,6 @@ The project combines match histories, ATP rankings, Elo-based player selection, 
 **Technical focus:** Python, pandas, data cleaning, web scraping, feature engineering, statistical analysis, and data visualization.
 
 [View repository](LINK_TO_TENNIS_REPOSITORY)
-
----
-
-### ⛓️ Ethereum Multi-Approval Payment Platform
-
-A blockchain-based application for payments that require approval from multiple authorized participants.
-
-The project includes Solidity smart contracts for payment approval and role management, a React frontend with MetaMask integration, and a private GoQuorum blockchain using QBFT consensus.
-
-**Technical focus:** Solidity, Ethereum, GoQuorum, React, Ethers.js, MetaMask, Docker, and distributed systems.
-
-[View repository](LINK_TO_BLOCKCHAIN_REPOSITORY)
 
 ---
 
